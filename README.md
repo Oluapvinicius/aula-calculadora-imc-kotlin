@@ -4,9 +4,6 @@ Uma aplicação moderna de Calculadora de Índice de Massa Corporal (IMC) desenv
 
 
 
-[Image of Body Mass Index (BMI) classification table]
-
-
 ## ✨ Funcionalidades
 
 - **Cálculo em tempo real:** Processa os dados inseridos e retorna o IMC com precisão.
