@@ -34,3 +34,6 @@ Para garantir que o app não feche inesperadamente (crash), implementamos:
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/seu-usuario/calculadora-imc.git](https://github.com/seu-usuario/calculadora-imc.git)
+
+
+<img src="app_screenshot.png" alt="Demonstração do Aplicativo Calculadora de IMC" width="300px">
